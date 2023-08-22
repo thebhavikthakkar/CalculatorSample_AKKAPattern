@@ -9,7 +9,7 @@ The project is structured into separate projects/modules within the solution to 
 - **CalculatorCore:** Contains the core business logic and domain-specific entities.
 - **CalculatorInfra:** Handles the infrastructure, including user interface interactions.
 - **CalculatorApp:** Contains the main application code and entry point.
-- **CalculatorApp.Tests** Contains test cases.
+- **CalculatorApp.Tests:** Contains test cases.
 
 ## Features
 
